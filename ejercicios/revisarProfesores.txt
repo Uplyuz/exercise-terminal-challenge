@@ -1,0 +1,168 @@
+    1  hystory
+    2  history
+    3  hist
+    4  history 
+    5  mkdir ejercicios
+    6  touch helloWorld.py
+    7  nano  helloWorld.py
+    8  ls
+    9  mv helloWorld.py /ejercicios
+   10  mv helloWorld.py /workspaces/exercise-terminal-challenge/ejercicios
+   11  cd ejercicios/
+   12  ls
+   13  cat
+   14  cat helloWorld.py 
+   15  cd ..
+   16  mkdir scripts
+   17  cd scripts/
+   18  touch prueba.sh
+   19  nano prueba.sh 
+   20  cat prueba.sh 
+   21  chmod +x prueba.sh 
+   22  ./prueba.sh 
+   23  nano prueba.sh 
+   24  cd ..
+   25  mv scripts/ /workspaces/exercise-terminal-challenge/ejercicios/
+   26  cd ejercicios/
+   27  ls
+   28  ./prueba.sh 
+   29  cd scripts/
+   30  ls
+   31  ./prueba.sh 
+   32  cd ..
+   33  ls
+   34  nano helloWorld.py 
+   35  cd scripts/
+   36  ./prueba.sh 
+   37  history > revisarProfesores.txt
+   38  ls
+   39  cat revisarProfesores.txt 
+   40  mv revisarProfesores.txt /workspaces/exercise-terminal-challenge/ejercicios/
+   41  history >> revisarProfesores.txt
+    1  hystory
+    2  history
+    3  hist
+    4  history 
+    5  mkdir ejercicios
+    6  touch helloWorld.py
+    7  nano  helloWorld.py
+    8  ls
+    9  mv helloWorld.py /ejercicios
+   10  mv helloWorld.py /workspaces/exercise-terminal-challenge/ejercicios
+   11  cd ejercicios/
+   12  ls
+   13  cat
+   14  cat helloWorld.py 
+   15  cd ..
+   16  mkdir scripts
+   17  cd scripts/
+   18  touch prueba.sh
+   19  nano prueba.sh 
+   20  cat prueba.sh 
+   21  chmod +x prueba.sh 
+   22  ./prueba.sh 
+   23  nano prueba.sh 
+   24  cd ..
+   25  mv scripts/ /workspaces/exercise-terminal-challenge/ejercicios/
+   26  cd ejercicios/
+   27  ls
+   28  ./prueba.sh 
+   29  cd scripts/
+   30  ls
+   31  ./prueba.sh 
+   32  cd ..
+   33  ls
+   34  nano helloWorld.py 
+   35  cd scripts/
+   36  ./prueba.sh 
+   37  history > revisarProfesores.txt
+   38  ls
+   39  cat revisarProfesores.txt 
+   40  mv revisarProfesores.txt /workspaces/exercise-terminal-challenge/ejercicios/
+   41  history >> revisarProfesores.txt
+   42  cat revisarProfesores.txt 
+   43  touch pruebaHora.py
+   44  nano pruebaHora.py 
+   45  python3 pruebaHora.py 
+   46  nano pruebaHora.py 
+   47  python3 pruebaHora.py 
+   48  nano pruebaHora.py 
+   49  python3 pruebaHora.py 
+   50  cat pruebaHora.py 
+   51  history >> revisarProfesores.txt 
+    1  hystory
+    2  history
+    3  hist
+    4  history 
+    5  mkdir ejercicios
+    6  touch helloWorld.py
+    7  nano  helloWorld.py
+    8  ls
+    9  mv helloWorld.py /ejercicios
+   10  mv helloWorld.py /workspaces/exercise-terminal-challenge/ejercicios
+   11  cd ejercicios/
+   12  ls
+   13  cat
+   14  cat helloWorld.py 
+   15  cd ..
+   16  mkdir scripts
+   17  cd scripts/
+   18  touch prueba.sh
+   19  nano prueba.sh 
+   20  cat prueba.sh 
+   21  chmod +x prueba.sh 
+   22  ./prueba.sh 
+   23  nano prueba.sh 
+   24  cd ..
+   25  mv scripts/ /workspaces/exercise-terminal-challenge/ejercicios/
+   26  cd ejercicios/
+   27  ls
+   28  ./prueba.sh 
+   29  cd scripts/
+   30  ls
+   31  ./prueba.sh 
+   32  cd ..
+   33  ls
+   34  nano helloWorld.py 
+   35  cd scripts/
+   36  ./prueba.sh 
+   37  history > revisarProfesores.txt
+   38  ls
+   39  cat revisarProfesores.txt 
+   40  mv revisarProfesores.txt /workspaces/exercise-terminal-challenge/ejercicios/
+   41  history >> revisarProfesores.txt
+   42  cat revisarProfesores.txt 
+   43  touch pruebaHora.py
+   44  nano pruebaHora.py 
+   45  python3 pruebaHora.py 
+   46  nano pruebaHora.py 
+   47  python3 pruebaHora.py 
+   48  nano pruebaHora.py 
+   49  python3 pruebaHora.py 
+   50  cat pruebaHora.py 
+   51  history >> revisarProfesores.txt 
+   52  cat revisarProfesores.txt 
+   53  wget https://getsamplefiles.com/download/tar/sample-1.tar
+   54  wget https://getsamplefiles.com/download/txt/sample-1.txt
+   55  history >> revisarProfesores.txt 
+    1  wget https://getsamplefiles.com/download/txt/sample-1.txt
+    2  history >> revisarProfesores.txt
+    3  cat revisarProfesores.txt 
+    4  find -name *.jpg
+    5  pwd
+    6  cd ejercicios/scripts/
+    7  history >> revisarProfesores.txt 
+    1  wget https://getsamplefiles.com/download/txt/sample-1.txt
+    2  history >> revisarProfesores.txt
+    3  cat revisarProfesores.txt 
+    4  find -name *.jpg
+    5  pwd
+    6  cd ejercicios/scripts/
+    7  history >> revisarProfesores.txt 
+    8  mv revisarProfesores.txt /workspaces/exercise-terminal-challenge/ejercicios
+    9  wget https://es.getsamplefiles.com/download/tar/sample-1.tar
+   10  tar -xvf sample-1.tar 
+   11  rm sample-1.txt 
+   12  cd..
+   13  cd ..
+   14  history >> revisarProfesores.txt 
